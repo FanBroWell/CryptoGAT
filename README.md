@@ -31,16 +31,39 @@ arXiv:2606.27670, 2026<br>
 
 ## Citation
 
+If you find this repository or paper useful, please cite our work.
+
+### BibTeX
+
 ```bibtex
 @misc{peng2026cryptogat,
-  title={CryptoGAT: Are Time Series Models Effective for Cryptocurrency Forecasting?},
-  author={Peng, Yu and Khushi, Matloob and Poon, Josiah},
-  year={2026},
-  eprint={2606.27670},
-  archivePrefix={arXiv},
-  primaryClass={cs.CE},
-  url={https://arxiv.org/abs/2606.27670}
+  title = {{CryptoGAT}: Are Time Series Models Effective for Cryptocurrency Forecasting?},
+  author = {Peng, Yu and Khushi, Matloob and Poon, Josiah},
+  year = {2026},
+  eprint = {2606.27670},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CE},
+  doi = {10.48550/arXiv.2606.27670},
+  url = {https://arxiv.org/abs/2606.27670}
 }
+```
+
+### APA
+
+```text
+Peng, Y., Khushi, M., & Poon, J. (2026). CryptoGAT: Are Time Series Models Effective for Cryptocurrency Forecasting? arXiv. https://doi.org/10.48550/arXiv.2606.27670
+```
+
+### IEEE
+
+```text
+Y. Peng, M. Khushi, and J. Poon, "CryptoGAT: Are Time Series Models Effective for Cryptocurrency Forecasting?," arXiv:2606.27670, 2026. doi: 10.48550/arXiv.2606.27670.
+```
+
+### Plain Text
+
+```text
+Yu Peng, Matloob Khushi, and Josiah Poon. CryptoGAT: Are Time Series Models Effective for Cryptocurrency Forecasting? arXiv:2606.27670, 2026. https://arxiv.org/abs/2606.27670
 ```
 
 ## Getting Started
