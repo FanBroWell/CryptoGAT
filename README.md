@@ -13,6 +13,10 @@
 
 </div>
 
+<p align="center">
+  <img src="assets/cryptogat-overview-results.png" alt="CryptoGAT cross-asset graph forecasting overview and experimental results" width="100%">
+</p>
+
 ## Overview
 
 We introduce a set of simple yet effective models named CryptoGAT as a new baseline for comparison. CryptoGAT uses an attention mechanism architecture to process graph-structured data, allowing each node to focus on its neighbors to compute hidden representations and assign different weights. To handle cryptocurrency markets with different characteristics, we further introduce a variant, named FGAT. Now we have a CryptoGAT family:
