@@ -11,12 +11,7 @@
 
 **Official implementation of CryptoGAT, a lightweight Graph Attention Network for cryptocurrency forecasting.**
 
-
 </div>
-<p align="center">
-  <img src="assets/cryptogat-overview-results.png" alt="CryptoGAT cross-asset graph forecasting overview and experimental results" width="100%">
-</p>
-
 
 ## Overview
 
