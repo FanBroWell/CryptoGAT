@@ -6,6 +6,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2606.27670-b31b1b.svg)](https://arxiv.org/abs/2606.27670)
 [![Paper PDF](https://img.shields.io/badge/Paper-PDF-red.svg)](https://arxiv.org/pdf/2606.27670)
+[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-FFD21E.svg)](https://huggingface.co/datasets/CharlieYPeng/cryptogat-crypto-1d)
 [![Status](https://img.shields.io/badge/Status-Under%20Review-orange.svg)](https://arxiv.org/abs/2606.27670)
 [![GitHub](https://img.shields.io/badge/Code-GitHub-blue.svg)](https://github.com/FanBroWell/CryptoGAT)
 
@@ -19,6 +20,12 @@ We introduce a set of simple yet effective models named CryptoGAT as a new basel
 
 - **GAT:** A simple yet effective graph-based model via a graph attention mechanism.
 - **FGAT:** FeatureMixer Graph Attention Network (FGAT) combines the Indicator mixing mechanism with the graph attention architecture.
+
+## Dataset
+
+The CryptoGAT Crypto 1D dataset used in this project is available on the Hugging Face Hub:
+
+**[CharlieYPeng/cryptogat-crypto-1d](https://huggingface.co/datasets/CharlieYPeng/cryptogat-crypto-1d)**
 
 ## Paper
 
