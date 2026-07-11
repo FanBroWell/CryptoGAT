@@ -21,12 +21,6 @@ We introduce a set of simple yet effective models named CryptoGAT as a new basel
 - **GAT:** A simple yet effective graph-based model via a graph attention mechanism.
 - **FGAT:** FeatureMixer Graph Attention Network (FGAT) combines the Indicator mixing mechanism with the graph attention architecture.
 
-## Dataset
-
-The CryptoGAT Crypto 1D dataset used in this project is available on the Hugging Face Hub:
-
-**[CharlieYPeng/cryptogat-crypto-1d](https://huggingface.co/datasets/CharlieYPeng/cryptogat-crypto-1d)**
-
 ## Paper
 
 Our paper is available on arXiv:
@@ -126,3 +120,9 @@ python train_gat_enhanced.py
 - **ICIR:** Information Coefficient Information Ratio
 - **Prec@10:** Precision at Top 10
 - **Sharpe:** Sharpe Ratio
+
+## Dataset
+
+The CryptoGAT Crypto 1D dataset used in this project is available on the Hugging Face Hub:
+
+**[CharlieYPeng/cryptogat-crypto-1d](https://huggingface.co/datasets/CharlieYPeng/cryptogat-crypto-1d)**
